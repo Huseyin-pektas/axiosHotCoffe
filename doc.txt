@@ -1,0 +1,10 @@
+Projenin amacı
+
+1) kullanıcını karşısına sıcak kahve çeşitlerini göstermek.
+    - fake apiye istek atmak için axios kütüphanesini kullanılacak.
+    - redux toolkit kütüphanesii kullanılacak.
+    - stillendirme için bootstrap kütüphanesi kullanılacak
+2) uygulama olarak 2  component ve 1 header sayfası olacak
+    - bir componentte ürünün resmi ve başlığı ,
+    - diğer componentte ise ürüne ait herşey olacak.
+    
